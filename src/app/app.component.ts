@@ -16,6 +16,10 @@ export class MyApp {
 
   // make HelloIonicPage the root (or first) page
   rootPage: any = HelloIonicPage;
+  tab1: any = HelloIonicPage;
+  tab2: any = HelloIonicPage;
+  tab3: any = ListPage;
+  tab4: any = ListPage;
   pages: Array<{title: string, component: any}>;
 
   constructor(
