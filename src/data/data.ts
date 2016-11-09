@@ -16,4 +16,5 @@ export class Data {
 
         return this.list;
     }
+
 }
