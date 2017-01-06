@@ -17,7 +17,6 @@ export var MyApp = (function () {
         this.platform = platform;
         this.menu = menu;
         // make HelloIonicPage the root (or first) page
-        this.rootPage = HelloIonicPage;
         this.tab1 = HelloIonicPage;
         this.tab2 = HelloIonicPage;
         this.tab3 = ListPage;

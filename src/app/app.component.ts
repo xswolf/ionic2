@@ -15,7 +15,6 @@ export class MyApp {
   @ViewChild(Nav) nav: Nav;
 
   // make HelloIonicPage the root (or first) page
-  rootPage: any = HelloIonicPage;
   tab1: any = HelloIonicPage;
   tab2: any = HelloIonicPage;
   tab3: any = ListPage;

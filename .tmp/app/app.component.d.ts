@@ -3,7 +3,6 @@ export declare class MyApp {
     platform: Platform;
     menu: MenuController;
     nav: Nav;
-    rootPage: any;
     tab1: any;
     tab2: any;
     tab3: any;
